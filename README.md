@@ -18,8 +18,8 @@
 
 <p>
 
-<a href="https://github.com/Chiranjeevi Sri balaji Kollu">
-<img src="https://img.shields.io/badge/GitHub-Chiranjeevi2707-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/chiranjeevisribalajikollu">
+<img src="https://img.shields.io/badge/GitHub-chiranjeevisribalajikollu-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:chsribalaji2004@gmail.com">
@@ -32,7 +32,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Chiranjeevi2707&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=chiranjeevisribalajikollu&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -50,13 +50,13 @@ My goal is to become a professional **AI Engineer / Software Engineer** by conti
 
 # 🚀 Open To
 
-- AI Engineering
-- Python Development
-- Data Analyst
-- Power BI Developer
-- Software Engineer
-- Generative AI Projects
-- Open Source Contributions
+- 🤖 AI Engineering
+- 🐍 Python Development
+- 📊 Data Analyst
+- 📈 Power BI Developer
+- 💻 Software Engineer
+- ✨ Generative AI Projects
+- 🌍 Open Source Contributions
 
 ---
 
@@ -92,3 +92,71 @@ My goal is to become a professional **AI Engineer / Software Engineer** by conti
 | Power BI | ⭐⭐⭐⭐☆ | Dashboards |
 | Data Analysis | ⭐⭐⭐⭐☆ | Business Intelligence |
 | Excel | ⭐⭐⭐⭐☆ | Reporting |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiranjeevisribalajikollu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevisribalajikollu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevisribalajikollu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chiranjeevisribalajikollu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevisribalajikollu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/chiranjeevisribalajikollu">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/chiranjeevi-kollu-92715231b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:chiranjeevisribalajikollu@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Innovate."* 🚀
+
+</div>
