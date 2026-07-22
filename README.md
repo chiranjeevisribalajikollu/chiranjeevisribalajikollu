@@ -18,7 +18,7 @@
 
 <p>
 
-<a href="https://github.com/Chiranjeevi2707">
+<a href="https://github.com/Chiranjeevi Sri balaji Kollu">
 <img src="https://img.shields.io/badge/GitHub-Chiranjeevi2707-181717?style=for-the-badge&logo=github"/>
 </a>
 
